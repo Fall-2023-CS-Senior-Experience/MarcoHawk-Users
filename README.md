@@ -1,5 +1,7 @@
 # MacroHawk
-Users follow the instructions below to download and install the MacroHawk app. Use the Table of contents to jump 
+Users follow the instructions below to download and install the MacroHawk app. 
+
+Use the Table of contents <img width="146" alt="image" src="https://github.com/Fall-2023-CS-Senior-Experience/MarcoHawk-Users/assets/89881902/82b593ed-e04b-4c0a-b3a1-b703ffae7b48"> to skip to:
 
 1. Edit setting to allow application to run on device.
 2. Download App
