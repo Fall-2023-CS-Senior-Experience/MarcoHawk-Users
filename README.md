@@ -14,7 +14,7 @@ Instructions for android devices.
 
 ### Change Settings on Device
 
-On you moblile device go to settings, then security and go to turn off unknow soruces or click on google protect and turn it off. <img src="https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/330ecd6f-f286-4b12-a623-3c963300136a" width="400" height="400">
+On you moblile device go to settings, then security and go to allow unknown sources or click on google protect and turn it off. <img src="https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/330ecd6f-f286-4b12-a623-3c963300136a" width="400" height="400">
 
 
 ### Download link and Instructions to install app
