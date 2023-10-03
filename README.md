@@ -1,5 +1,5 @@
 # MacroHawk
-Users follow the instructions below to download and install the MacroHawk app. Use the Table content to jump 
+Users follow the instructions below to download and install the MacroHawk app. Use the Table of contents to jump 
 
 1. Edit setting to allow application to run on device.
 2. Download App
@@ -15,7 +15,7 @@ Instructions for android devices.
 On you moblile device go to settings, then security and go to turn off unknow soruces or click on google protect and turn it off. <img src="https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/330ecd6f-f286-4b12-a623-3c963300136a" width="400" height="400">
 
 
-### Download link and Instruciions to install
+### Download link and Instructions to install app
 1.Click on the following link. [Download link](https://drive.google.com/file/d/1L0uIZzmMTOnPJpXzy99KQKv4aw0KCEfr/view?usp=sharing). The image below should open. Then click on download. ![image](https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/fdc64943-b90d-4d12-85b5-dc038d638f92)
 
 2. Once download is complete. On your mobile device, go to fies folder, then download folder. <img src="https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/6f1a57eb-9917-4d9a-9a02-6d21abf44c1f" width="400" height="400"> 
