@@ -5,10 +5,14 @@ Use the Table of contents <img width="146" alt="image" src="https://github.com/F
 
 1. Edit setting to allow application to run on device.
 2. Download App
-
-   * Non android user recommend to use emulator for android device. 
    
 ## Download App 
+Instructions for ios
+1. Email mwhite96@msudenver.edu and request access.
+2. You will receive an email from Apple Store Connect asking you to accept an inviation. Click accept invitation and create an account.
+3. Next, you will need to email mwhite96@msudenver.edu again stating you finished creating an Apple Store Connect account, after you will receive an email inviting you to view MacroHawk in TestFlight.
+4. Download TestFlight by Apple on your iPhone, then open the MacroHawk invite email from your iPhone.
+5. Follow the prompts to download the app.
 
 Instructions for android devices.
 
