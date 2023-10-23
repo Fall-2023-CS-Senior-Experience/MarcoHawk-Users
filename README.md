@@ -16,9 +16,25 @@ Instructions for ios
 
 Instructions for android devices.
 
-### Change Settings on Device
+### Change Settings to Enable Unknown Sources on Android phones Instructions
+	
+#### Checking version of android software 
+1. Go to setting
+2. Tap on about phone and find the Android Version. You may need to tap on Software information to find Android Version.
 
-On you moblile device go to settings, then security and go to allow unknown sources or click on google protect and turn it off. <img src="https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/330ecd6f-f286-4b12-a623-3c963300136a" width="400" height="400">
+#### Android Version 10 and newer
+
+1. Go to Setting and tap on App or Apps and Notifications.
+2. Tap on Advance or the three dots at the top right corner and select special access.
+3. Tap on Install Unknown Apps
+4. Tap on the app icon that you will allow to install the apk file from.  (This is the location in which the app files download to. )
+**For examples
+1. Files folder containing download files
+2. Files by google
+Turn on allow from this source. 
+
+#### Android version 9 and older
+1. On you moblile device go to settings, then security and select option to allow unknown sources or select to turn off google protec. <img src="https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/330ecd6f-f286-4b12-a623-3c963300136a" width="400" height="400">
 
 
 ### Download link and Instructions to install app
