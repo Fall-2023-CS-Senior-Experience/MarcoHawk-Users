@@ -28,7 +28,7 @@ Instructions for android devices.
 2. Tap on Advance or the three dots at the top right corner and select special access.
 3. Tap on Install Unknown Apps
 4. Tap on the app icon that you will allow to install the apk file from.  (This is the location in which the app files download to. )
-**For examples
+* For examples
 1. Files folder containing download files
 2. Files by google
 Turn on allow from this source. 
