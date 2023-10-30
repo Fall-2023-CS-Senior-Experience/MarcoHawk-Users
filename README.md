@@ -39,7 +39,8 @@ Turn on allow from this source.
 
 ### Download link and Instructions to install app
 1.Click on the following link. (all users recommend to download most updated version of mobile app.  Older version also available below)
-* UPDATED [Download 10.19.2023](https://drive.google.com/file/d/1olQ3rlMi9m2UT0O0oa8BUM0Q2tPOvt8k/view?usp=share_link). 
+* UPDATED [Download 10.30.2023](https://drive.google.com/file/d/1xt9-1ACHElQIYCfkJEs2u9lqVu7K0Pko/view?usp=sharing).
+*  [Download 10.19.2023](https://drive.google.com/file/d/1olQ3rlMi9m2UT0O0oa8BUM0Q2tPOvt8k/view?usp=share_link). 
 * [Download version1](https://drive.google.com/file/d/1L0uIZzmMTOnPJpXzy99KQKv4aw0KCEfr/view?usp=sharing). 
 
 The image below should open. Then click on download. ![image](https://github.com/Fall-2023-CS-Senior-Experience/MacroHawk/assets/91153874/fdc64943-b90d-4d12-85b5-dc038d638f92)
