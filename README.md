@@ -5,6 +5,7 @@ Use the Table of contents <img width="146" alt="image" src="https://github.com/F
 
 1. Edit setting to allow application to run on device.
 2. Download App
+3. Option to view app on web browser [web link](https://macro-hawk-fs9qul.flutterflow.app/). recommend download app for best quality.
    
 ## Download App 
 Instructions for ios
